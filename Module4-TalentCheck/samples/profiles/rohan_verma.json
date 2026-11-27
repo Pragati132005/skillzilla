@@ -1,0 +1,100 @@
+{
+  "name": "Rohan Verma",
+  "email": "rohan.verma@example.com",
+  "education": "B.Tech, Computer Science and Engineering, Class of 2026 — CGPA 9.1 / 10",
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category_code": "COD",
+      "evidence": "Technical Skills: C++",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Python",
+      "category_code": "COD",
+      "evidence": "Technical Skills: Python; contributor to a mid-size Python library",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "SQL",
+      "category_code": "SQL",
+      "evidence": "Technical Skills: SQL",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Data Structures & Algorithms",
+      "category_code": "DSA",
+      "evidence": "500+ problems solved across competitive programming platforms",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "System Design",
+      "category_code": "SYSD",
+      "evidence": "Designed and built a scalable notification service (pub-sub architecture, horizontally-scalable workers), documented with architecture diagrams",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Object-Oriented Design",
+      "category_code": "OOD",
+      "evidence": "Wrote a technical blog series on object-oriented design patterns used in real-world systems",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Operating Systems",
+      "category_code": "OS",
+      "evidence": "Technical Skills: Operating Systems",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Machine Learning (basic)",
+      "category_code": "AI",
+      "evidence": "basic Machine Learning; built a recommendation engine using collaborative filtering, evaluated with precision/recall",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Git",
+      "category_code": "SWE",
+      "evidence": "Technical Skills: Git; open-source contributor (2 merged PRs)",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Docker",
+      "category_code": "CLOUD",
+      "evidence": "Technical Skills: Docker",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Testing and CI",
+      "category_code": "SWE",
+      "evidence": "Software Engineering intern at a Series-B startup — shipped a feature end-to-end including tests and CI",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Technical writing",
+      "category_code": "COMM",
+      "evidence": "Wrote a technical blog series",
+      "confidence": "medium"
+    }
+  ],
+  "hackathons": [
+    "Winner, national inter-college hackathon — built a real-time collaborative document editor"
+  ],
+  "internships": [
+    "Software Engineering intern at a Series-B startup — shipped a feature end-to-end including tests and CI"
+  ],
+  "certifications": [],
+  "projects": [
+    "Designed and built a scalable notification service (pub-sub architecture, horizontally-scalable workers) as a personal system-design project, documented with architecture diagrams",
+    "Built a recommendation engine using collaborative filtering on a movie-ratings dataset, evaluated with precision/recall",
+    "Wrote a technical blog series on object-oriented design patterns used in real-world systems"
+  ],
+  "achievements": [
+    "500+ problems solved across competitive programming platforms; open-source contributor (2 merged PRs to a mid-size Python library)"
+  ],
+  "preferred_roles": [
+    "Software Engineer",
+    "Data Scientist",
+    "Backend Engineer"
+  ],
+  "cv_file": "Rohan Verma.pdf"
+}

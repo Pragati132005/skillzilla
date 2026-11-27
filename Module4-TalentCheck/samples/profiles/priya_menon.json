@@ -1,0 +1,76 @@
+{
+  "name": "Priya Menon",
+  "email": "priya.menon@example.com",
+  "education": "B.Tech, Information Technology, Class of 2026 — CGPA 7.4 / 10",
+  "skills": [
+    {
+      "skill_name": "SQL (basic)",
+      "category_code": "SQL",
+      "evidence": "Technical Skills: SQL (basic); MySQL backend for student attendance tracker",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Java",
+      "category_code": "COD",
+      "evidence": "Built a simple student attendance tracker using Java and a MySQL backend",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Linux basics",
+      "category_code": "CLOUD",
+      "evidence": "Technical Skills: Linux basics",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Networking fundamentals",
+      "category_code": "NETW",
+      "evidence": "Technical Skills: Networking fundamentals; Cisco Networking Basics (online course)",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "MS Excel",
+      "category_code": "APTI",
+      "evidence": "Technical Skills: MS Excel",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Ticketing tools (exposure)",
+      "category_code": "SWE",
+      "evidence": "exposure to ticketing tools; helpdesk simulation project",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Technical support / troubleshooting",
+      "category_code": "COMM",
+      "evidence": "first-level troubleshooting and escalations at IT support desk",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Event coordination",
+      "category_code": "COMM",
+      "evidence": "Volunteer coordinator for a college technical fest, coordinating logistics across teams",
+      "confidence": "medium"
+    }
+  ],
+  "hackathons": [
+    "Participated (non-finalist), 12-hour campus hackathon"
+  ],
+  "internships": [
+    "Summer intern, IT support desk at a local business — handled first-level troubleshooting and escalations"
+  ],
+  "certifications": [
+    "Cisco Networking Basics (online course)"
+  ],
+  "projects": [
+    "Built a simple student attendance tracker using Java and a MySQL backend for a college project",
+    "Contributed to a college helpdesk simulation project, resolving simulated tickets and logging resolutions"
+  ],
+  "achievements": [
+    "Volunteer coordinator for a college technical fest, coordinating logistics across teams"
+  ],
+  "preferred_roles": [
+    "Application Support Analyst",
+    "Associate Software Engineer"
+  ],
+  "cv_file": "Priya Menon.pdf"
+}

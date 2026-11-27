@@ -1,0 +1,4 @@
+# Talent Check (Module 4). Python 3.9+
+# Original code is standard-library only; add libraries here only if you use them.
+pandas>=2.0      # only for the DataFrame-based level_estimator
+pytest>=8.0      # optional: tests also run with `python -m unittest discover -s tests -t .`

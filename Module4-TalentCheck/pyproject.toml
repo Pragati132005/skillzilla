@@ -1,0 +1,16 @@
+[project]
+name = "talent-check"
+version = "1.0.0"
+description = "RADIX Talent Match - Module 4: Talent Check (readiness score and per-skillset gaps)"
+requires-python = ">=3.9"
+dependencies = []          # standard library only
+
+[project.scripts]
+talent-check = "talent_check.cli:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["talent_check"]

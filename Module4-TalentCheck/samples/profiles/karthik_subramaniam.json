@@ -1,0 +1,95 @@
+{
+  "name": "Karthik Subramaniam",
+  "email": "karthik.s@example.com",
+  "education": "B.Tech, Computer Science and Engineering, Class of 2026 — CGPA 8.2 / 10",
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category_code": "SQL",
+      "evidence": "Technical Skills: SQL; SQL extraction in churn-prediction pipeline; normalized schema design",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Python (pandas, scikit-learn)",
+      "category_code": "COD",
+      "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction → feature engineering → logistic regression model)",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "scikit-learn",
+      "category_code": "AI",
+      "evidence": "logistic regression model for churn prediction",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Feature engineering",
+      "category_code": "AI",
+      "evidence": "churn-prediction pipeline: feature engineering",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Power BI",
+      "category_code": "APTI",
+      "evidence": "Built two recurring dashboards used by the growth team",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Statistics",
+      "category_code": "APTI",
+      "evidence": "Technical Skills: Statistics",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "A/B testing",
+      "category_code": "APTI",
+      "evidence": "A/B testing basics; ran and analyzed an A/B test simulation comparing two onboarding flows",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Excel",
+      "category_code": "APTI",
+      "evidence": "Technical Skills: Excel",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Java",
+      "category_code": "COD",
+      "evidence": "Technical Skills: basic Java",
+      "confidence": "low"
+    },
+    {
+      "skill_name": "Data visualization",
+      "category_code": "APTI",
+      "evidence": "Runner-up, inter-college data visualization competition",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Presenting to non-technical audience",
+      "category_code": "COMM",
+      "evidence": "presenting results to a non-technical audience",
+      "confidence": "high"
+    }
+  ],
+  "hackathons": [
+    "Runner-up, inter-college data visualization competition"
+  ],
+  "internships": [
+    "Data Analytics intern at a fintech startup — built two recurring dashboards used by the growth team"
+  ],
+  "certifications": [
+    "Google Data Analytics Certificate"
+  ],
+  "projects": [
+    "Built an end-to-end churn-prediction pipeline (SQL extraction → feature engineering → logistic regression model) on a public e-commerce dataset",
+    "Designed a normalized schema and dashboard for a college event-management system, including anomaly detection on registration spikes",
+    "Ran and analyzed an A/B test simulation comparing two onboarding flows, presenting results to a non-technical audience"
+  ],
+  "achievements": [
+    "Published a short analysis write-up on a public dataset, featured in a college newsletter"
+  ],
+  "preferred_roles": [
+    "Data Analyst",
+    "Data Scientist"
+  ],
+  "cv_file": "Karthik Subramaniam.pdf"
+}

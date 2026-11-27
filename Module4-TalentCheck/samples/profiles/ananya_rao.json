@@ -1,0 +1,105 @@
+{
+  "name": "Ananya Rao",
+  "email": "ananya.rao@example.com",
+  "education": "B.Tech, Computer Science and Engineering, Class of 2026 — CGPA 8.6 / 10",
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category_code": "COD",
+      "evidence": "Technical Skills: C++; multithreaded job scheduler in C++",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Python",
+      "category_code": "COD",
+      "evidence": "Technical Skills: Python",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Java",
+      "category_code": "COD",
+      "evidence": "Technical Skills: Java; parking-lot management system in Java",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Data Structures & Algorithms",
+      "category_code": "DSA",
+      "evidence": "Solved 350+ problems on competitive programming platforms; mentors juniors on DSA",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Operating Systems",
+      "category_code": "OS",
+      "evidence": "Implemented a multithreaded job scheduler in C++ simulating OS-level process scheduling algorithms (Round Robin, Priority, SJF)",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Computer Networks",
+      "category_code": "NETW",
+      "evidence": "Technical Skills: Computer Networks",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Object-Oriented Design",
+      "category_code": "OOD",
+      "evidence": "Designed a parking-lot management system in Java using OOP design patterns (Factory, Strategy)",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Design Patterns (Factory, Strategy)",
+      "category_code": "OOD",
+      "evidence": "using OOP design patterns (Factory, Strategy) as a design-practice exercise",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Git",
+      "category_code": "SWE",
+      "evidence": "Technical Skills: Git",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Linux",
+      "category_code": "CLOUD",
+      "evidence": "Technical Skills: Linux",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Redis caching",
+      "category_code": "SYSD",
+      "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Rate limiter",
+      "category_code": "SWE",
+      "evidence": "Summer intern, backend team at a mid-size product startup — shipped a rate-limiter used in production",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Mentoring",
+      "category_code": "COMM",
+      "evidence": "mentors juniors on DSA through the college coding club",
+      "confidence": "medium"
+    }
+  ],
+  "hackathons": [
+    "Finalist, national-level 24-hour hackathon — built a real-time chat backend"
+  ],
+  "internships": [
+    "Summer intern, backend team at a mid-size product startup — shipped a rate-limiter used in production"
+  ],
+  "certifications": [],
+  "projects": [
+    "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+    "Implemented a multithreaded job scheduler in C++ simulating OS-level process scheduling algorithms (Round Robin, Priority, SJF)",
+    "Designed a parking-lot management system in Java using OOP design patterns (Factory, Strategy) as a design-practice exercise"
+  ],
+  "achievements": [
+    "Solved 350+ problems on competitive programming platforms; mentors juniors on DSA through the college coding club"
+  ],
+  "preferred_roles": [
+    "Software Engineer",
+    "Backend Engineer"
+  ],
+  "cv_file": "Ananya Rao.pdf"
+}
