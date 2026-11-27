@@ -30,8 +30,11 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 desktop.ini
+<<<<<<< HEAD
 
 # Local runtime state
 .run/
 *.out.log
 *.err.log
+=======
+>>>>>>> 4c9d1dbefd237039dacabfd3cd53abe17201b131

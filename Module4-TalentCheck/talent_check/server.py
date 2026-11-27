@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """Tiny JSON-over-HTTP API so the React Profile Builder (Module 3) can call Talent Check.
 
     GET  /health
@@ -182,3 +183,7 @@ def start_in_thread(server: ThreadingHTTPServer) -> threading.Thread:
     t = threading.Thread(target=server.serve_forever, daemon=True)
     t.start()
     return t
+=======
+"""ASGI entry point retained as server.py for integration conventions."""
+from .api import app
+>>>>>>> 4c9d1dbefd237039dacabfd3cd53abe17201b131

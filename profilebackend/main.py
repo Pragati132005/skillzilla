@@ -1,5 +1,8 @@
 from contextlib import asynccontextmanager
+<<<<<<< HEAD
 import os
+=======
+>>>>>>> 4c9d1dbefd237039dacabfd3cd53abe17201b131
 from typing import Any
 
 from fastapi import Depends, FastAPI, HTTPException
@@ -30,6 +33,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
+<<<<<<< HEAD
         origin.strip()
         for origin in os.getenv(
             "CORS_ORIGINS",
@@ -39,6 +43,13 @@ app.add_middleware(
     ],
     allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
+=======
+        "http://localhost:5174",
+        "http://127.0.0.1:5174",
+    ],
+    allow_methods=["GET", "POST"],
+    allow_headers=["Content-Type"],
+>>>>>>> 4c9d1dbefd237039dacabfd3cd53abe17201b131
 )
 
 

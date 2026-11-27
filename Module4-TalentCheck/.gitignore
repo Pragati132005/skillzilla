@@ -1,4 +1,5 @@
 .env
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 .cache/
@@ -6,3 +7,9 @@ __pycache__/
 dist/
 build/
 .venv/
+=======
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+>>>>>>> 4c9d1dbefd237039dacabfd3cd53abe17201b131
